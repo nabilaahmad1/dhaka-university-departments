@@ -1,0 +1,66 @@
+/* Card Style */
+.card
+{
+    width: 300px;
+    border-radius: 18px;
+    margin-bottom: 20px;
+    background-color: white; 
+    box-shadow: 5px 5px 2px #f0efef;  
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+/* Card Image Style */
+.cardImg
+{
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+.cardImg img
+{
+   width: 100%;
+   height: 220px;
+   border-radius: 18px;
+}
+/* Card Details Style */
+.cardDetails
+{
+    padding: 10px 10px 15px  10px;
+    line-height:1.8;
+}
+.cardDetails h2
+{
+  font-size: 20px;
+  color:#2A3130;
+  
+}
+.cardDetails h3
+{
+    font-size: 17px;
+    color:#333333 /*  #2A2B2B */;
+    font-weight: 300;
+}
+
+/* Card Button */
+.cardDetails button
+{
+    margin: 10px;
+    background-color: #F34F5B;
+    outline: none;
+    border:1px solid white;
+    font-size: 20px;
+    color: white;
+    padding: 13px 25px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.cardDetails button:hover
+{
+    background-color: white;
+    color: #F34F5B;
+    border:1px solid #F34F5B;
+}
+/* Budget Icon */
+.budgetIcon
+{
+    margin-right:10px ;
+}

@@ -1,0 +1,272 @@
+ [
+      {
+            "id": 1,
+            "departmentName": "Accounting and Information System",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16163091378129.jpg",
+            "numberOfFaculty": 47,
+            "numberOfStudent": 1054,
+            "numberOfFemaleStudent": 423,
+            "researchBudget": 300000
+      },
+      {
+            "id": 2,
+            "departmentName": "Applied Mathmatics",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/1630903959Mathmetics-and-Applied-Mathematics-1.png",
+            "numberOfFaculty": 17,
+            "numberOfStudent": 344,
+            "numberOfFemaleStudent": 103,
+            "researchBudget": 200000
+      },
+      {
+            "id": 3,
+            "departmentName": "Bangla",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/1611642680icon.JPG",
+            "numberOfFaculty": 25,
+            "numberOfStudent": 661,
+            "numberOfFemaleStudent": 324,
+            "researchBudget": 50000
+      },
+      {
+            "id": 4,
+            "departmentName": "Biomedical Physics & Tecnology",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16221272595648.jpg",
+            "numberOfFaculty": 5,
+            "numberOfStudent": 22,
+            "numberOfFemaleStudent": 7,
+            "researchBudget": 100000
+      },
+      {
+            "id": 5,
+            "departmentName": "Ceramic",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16165727831450.jpg",
+            "numberOfFaculty": 6,
+            "numberOfStudent": 51,
+            "numberOfFemaleStudent": 23,
+            "researchBudget": 100000
+      },
+      {
+            "id": 6,
+            "departmentName": "Clinical Pharmacy and Pharmacology",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/1611644561icon.JPG",
+            "numberOfFaculty": 23,
+            "numberOfStudent": 407,
+            "numberOfFemaleStudent": 127,
+            "researchBudget": 400000
+      },
+      {
+            "id": 7,
+            "departmentName": "Clinical Psychology",
+            "img": "https://www.du.ac.bd/fontView/assets/img/default_logo/default_logo_2.png",
+            "numberOfFaculty": 13,
+            "numberOfStudent": 77,
+            "numberOfFemaleStudent": 53,
+            "researchBudget": 250000
+      },
+      {
+            "id": 8,
+            "departmentName": "Devolopment Studies",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16270395819127.jpg",
+            "numberOfFaculty": 24,
+            "numberOfStudent": 156,
+            "numberOfFemaleStudent": 69,
+            "researchBudget": 150000
+      },
+      {
+            "id": 9,
+            "departmentName": "Disaster Science and Management",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16292700093523.jpg",
+            "numberOfFaculty": 15,
+            "numberOfStudent": 153,
+            "numberOfFemaleStudent": 85,
+            "researchBudget": 350000
+      },
+      {
+            "id": 10,
+            "departmentName": "Economics",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/1611641300DSC_8092.JPG",
+            "numberOfFaculty": 39,
+            "numberOfStudent": 753,
+            "numberOfFemaleStudent": 298,
+            "researchBudget": 450000
+      },
+      {
+            "id": 11,
+            "departmentName": "Educational and Counselling Psychology",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16305719616247.jpg",
+            "numberOfFaculty": 13,
+            "numberOfStudent": 71,
+            "numberOfFemaleStudent": 0,
+            "researchBudget": 100000
+      },
+      {
+            "id": 12,
+            "departmentName": "Electrical & Electronic Engineering",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16154422099870.jpg",
+            "numberOfFaculty": 36,
+            "numberOfStudent": 415,
+            "numberOfFemaleStudent": 108,
+            "researchBudget": 400000
+      },
+      {
+            "id": 13,
+            "departmentName": "English",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16165784685676.jpg",
+            "numberOfFaculty": 35,
+            "numberOfStudent": 713,
+            "numberOfFemaleStudent": 349,
+            "researchBudget": 200000
+      },
+      {
+            "id": 14,
+            "departmentName": "Finance",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16189865848549.jpg",
+            "numberOfFaculty": 44,
+            "numberOfStudent": 1050,
+            "numberOfFemaleStudent": 461,
+            "researchBudget": 300000
+      },
+      {
+            "id": 15,
+            "departmentName": "Fisheries",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16175277335903.png",
+            "numberOfFaculty": 24,
+            "numberOfStudent": 202,
+            "numberOfFemaleStudent": 79,
+            "researchBudget": 500000
+      },
+      {
+            "id": 16,
+            "departmentName": "Genetic Engineering and Biotechnology",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16266818348926.jpeg",
+            "numberOfFaculty": 23,
+            "numberOfStudent": 95,
+            "numberOfFemaleStudent": 37,
+            "researchBudget": 600000
+      },
+      {
+            "id": 17,
+            "departmentName": "Geography & Environment",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16154446311456.jpg",
+            "numberOfFaculty": 23,
+            "numberOfStudent": 527,
+            "numberOfFemaleStudent": 256,
+            "researchBudget": 600000
+      },
+      {
+            "id": 18,
+            "departmentName": "Geology",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16137538072398.png",
+            "numberOfFaculty": 21,
+            "numberOfStudent": 262,
+            "numberOfFemaleStudent": 80,
+            "researchBudget": 700000
+      },
+      {
+            "id": 19,
+            "departmentName": "Graphic Design",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16160486123425.jpg",
+            "numberOfFaculty": 8,
+            "numberOfStudent": 140,
+            "numberOfFemaleStudent": 76,
+            "researchBudget": 100000
+      },
+      {
+            "id": 20,
+            "departmentName": "History",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/1611645847icon.JPG",
+            "numberOfFaculty": 29,
+            "numberOfStudent": 656,
+            "numberOfFemaleStudent": 217,
+            "researchBudget": 400000
+      },
+      {
+            "id": 21,
+            "departmentName": "International Relations",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16162579719189.jpeg",
+            "numberOfFaculty": 30,
+            "numberOfStudent": 509,
+            "numberOfFemaleStudent": 159,
+            "researchBudget": 1000000
+      },
+      {
+            "id": 22,
+            "departmentName": "Linguistics",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16200264737173.jpg",
+            "numberOfFaculty": 15,
+            "numberOfStudent": 416,
+            "numberOfFemaleStudent": 186,
+            "researchBudget": 500000
+      },
+      {
+            "id": 23,
+            "departmentName": "Management Information Systems",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16195234056382.jpg",
+            "numberOfFaculty": 23,
+            "numberOfStudent": 623,
+            "numberOfFemaleStudent": 258,
+            "researchBudget": 550000
+      },
+      {
+            "id": 24,
+            "departmentName": "Mass Communication & Journalism",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/1611645235icon.JPG",
+            "numberOfFaculty": 26,
+            "numberOfStudent": 334,
+            "numberOfFemaleStudent": 87,
+            "researchBudget": 650000
+      },
+      {
+            "id": 25,
+            "departmentName": "Microbiology",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16158058066813.jpg",
+            "numberOfFaculty": 26,
+            "numberOfStudent": 226,
+            "numberOfFemaleStudent": 94,
+            "researchBudget": 750000
+      },
+      {
+            "id": 26,
+            "departmentName": "Nuclear Engineering",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16202104003024.jpg",
+            "numberOfFaculty": 13,
+            "numberOfStudent": 122,
+            "numberOfFemaleStudent": 24,
+            "researchBudget": 850000
+      },
+      {
+            "id": 27,
+            "departmentName": "Oceanography",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16160805498752.jpg",
+            "numberOfFaculty": 11,
+            "numberOfStudent": 111,
+            "numberOfFemaleStudent": 32,
+            "researchBudget": 950000
+      },
+      {
+            "id": 28,
+            "departmentName": "Peace and Conflict Studies",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16164321306597.jpg",
+            "numberOfFaculty": 14,
+            "numberOfStudent": 275,
+            "numberOfFemaleStudent": 107,
+            "researchBudget": 150000
+      },
+      {
+            "id": 29,
+            "departmentName": "Persian Language and Literature",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/16194645488008.jpg",
+            "numberOfFaculty": 10,
+            "numberOfStudent": 435,
+            "numberOfFemaleStudent": 183,
+            "researchBudget": 250000
+      },
+      {
+            "id": 30,
+            "departmentName": "Pharmaceutical Chemistry",
+            "img": "https://ssl.du.ac.bd/fontView/images/body/1611644444icon.JPG",
+            "numberOfFaculty": 23,
+            "numberOfStudent": 42,
+            "numberOfFemaleStudent": 18,
+            "researchBudget": 550000
+      }
+]

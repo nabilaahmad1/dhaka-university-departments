@@ -1,0 +1,14 @@
+/* Main part container style */
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+        
+}
+/* Card container Style */
+.cardContainer{
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:24px;
+    padding: 55px;
+}

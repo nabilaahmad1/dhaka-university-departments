@@ -1,0 +1,9 @@
+.showName p
+{
+   color:#F34F5B;
+   font-size: 25px;
+   font-weight: 900;
+   border: 1px solid #F34F5B;
+   margin-bottom: 10px;
+   padding: 10px 0;
+}

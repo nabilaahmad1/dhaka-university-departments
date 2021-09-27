@@ -1,0 +1,38 @@
+.calculationPart
+{
+    margin-top: 55px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 40px;
+}
+.calculationPart h2
+{
+    background-color: #F34F5B;
+    color:white;
+    padding: 11px;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+}
+.calculationResult
+{
+    font-size: 20px;
+    padding:0;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    color: white;
+    
+}
+.calculationResult p
+{
+        background-color: #F34F5B;
+        margin-bottom: 8px;
+}
+
+.departmentName
+{
+    margin-top: 100px;
+}
+.departmentName h2
+{
+    background-color: #F34F5B;
+    color: white;
+}
